@@ -6,7 +6,7 @@ This guide is your personal cheat sheet. No corporate talk, just the stuff you a
 
 ---
 
-## ## The Core Idea: Don't Build, Just Use
+## The Core Idea: Don't Build, Just Use
 
 Imagine you want to start a new project, like a web app.
 
@@ -18,7 +18,7 @@ Imagine you want to start a new project, like a web app.
 
 ---
 
-## ## Levels of Cloud Service: The Transportation Analogy 🚗
+## Levels of Cloud Service: The Transportation Analogy 🚗
 
 Think about how you get around town. You have different levels of control and responsibility. Cloud services work the same way.
 
@@ -39,7 +39,7 @@ Think about how you get around town. You have different levels of control and re
 
 ---
 
-## ## The Different "Neighborhoods" of the Cloud
+## The Different "Neighborhoods" of the Cloud
 
 * *Public Cloud:* Think of a massive, public co-working space. It's cost-effective, scalable, and run by a big company (AWS, Google, Microsoft). You share the space with many other "tenants."
 * *Private Cloud:* A private, dedicated office building for just one company. It offers maximum security and control but is very expensive to build and maintain. Usually for banks or government agencies with strict data rules.
@@ -47,13 +47,13 @@ Think about how you get around town. You have different levels of control and re
 
 ---
 
-## ## Why This Matters for Your Student Projects
+## Why This Matters for Your Student Projects
 
 * *Cost:* You can't afford a $2,000 server, but you can afford a few dollars a month to rent one in the cloud. Even better, most providers have *free student plans!*
 * *Scalability:* Did your project suddenly get popular overnight? With the cloud, you can automatically add more power to handle the traffic. No more "hugging your server to death."
 * *Collaboration:* Cloud tools make it super easy to work on projects with your classmates, no matter where you are.
 
-### ### Ready to Start?
+### Ready to Start?
 
 1.  *Pick a Provider:* Don't overthink it. Just pick one to start. AWS, Google Cloud, and Microsoft Azure are the big three.
 2.  *Get the Student Pack:* Search for the "[GitHub Student Developer Pack](https://education.github.com/pack)". It gives you free credits for many cloud services.
